@@ -12,7 +12,7 @@
 /* banner style */
 .banner{
     height: auto;
-    background: url('/img/banner1.jpg');
+    background: url('../img/banner1.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
 }
@@ -217,27 +217,27 @@
     background-repeat: no-repeat; */
 }
 .main-project .projects .project1{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project1.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project1.jpg);
     transition: 0.5s;
 }
 .main-project .projects .project2{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project2.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project2.jpg);
     transition: 0.5s;
 }
 .main-project .projects .project3{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project3.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project3.jpg);
     transition: 0.5s;
 }
 .main-project .projects .project4{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project4.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project4.jpg);
     transition: 0.5s;
 }
 .main-project .projects .project5{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project5.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project5.jpg);
     transition: 0.5s;
 }
 .main-project .projects .project6{
-    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(/img/project6.jpg);
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../img/project6.jpg);
     transition: 0.5s;
 }
 .main-project .projects button{
@@ -382,15 +382,15 @@
 }
 /* news style */
 .main-project .projects .news1{
-    background: url('/img/news1.jpg');
+    background: url('../img/news1.jpg');
     background-repeat: no-repeat;
 }
 .main-project .projects .news2{
-    background: url('/img/news2.jpg');
+    background: url('../img/news2.jpg');
     background-repeat: no-repeat;
 }
 .main-project .projects .news3{
-    background: url('/img/news3.jpg');
+    background: url('../img/news3.jpg');
     background-repeat: no-repeat;
 }
 .main-project .projects .news-hover{
