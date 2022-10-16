@@ -1,0 +1,153 @@
+@media(max-width:1400px){
+    .banner .navbar .nav-right ul li{
+        padding: 10px;
+    }
+    .banner .navbar .nav-right ul li a button{
+        padding: 10px 25px;
+    }
+    .banner .navbar .nav-right{
+        padding-top: 12px;
+    }
+    .about .about-me .skill ul li a{
+        margin-right: 25px;
+        font-size: 16px;
+    }
+}
+@media(max-width:1237px){
+    .banner .navbar .nav-right ul li{
+        padding: 5px;
+    }
+    .banner .navbar .nav-right ul li a button{
+        padding: 5px 15px;
+    }
+    .banner .navbar .nav-right{
+        padding-top: 14px;
+    }
+    .main-hire .hire-form  input, .main-hire .hire-form  textarea{
+        width: 400px;
+    }
+}
+@media(max-width:1146px){
+    .about .about-me .skill ul li a{
+        margin-right: 15px;
+        font-size: 14px;
+    }
+}
+@media(max-width:1092px){
+    .main-footer{
+        grid-template-columns: 1fr 1fr;
+    }
+    .main-footer .copyright p{
+        text-align: center;
+    }
+}
+@media(max-width:1038px){
+    .banner .navbar .nav-right ul li a{
+        font-size: 14px;
+    }
+    .banner .navbar .nav-right ul li a button{
+        font-size: 14px;
+    }
+    .banner .navbar .nav-right{
+        padding-top: 16px;
+    }
+}
+@media(max-width:991px){
+    .about{
+        grid-template-columns: 100%;
+    }
+    .about .about-me .skill ul li a{
+        font-size: 18px;
+        margin-right: 42px;
+    }
+    .banner .navbar{
+        grid-template-columns: 100%;
+        padding: 30px 10px;
+    }
+    .banner .navbar .nav-right{
+        text-align: left;
+    }
+    .main-service .services{
+        grid-template-columns: 1fr 1fr;
+        padding: 0px 80px;
+    }
+    .main-project .projects .project-box{
+        background-size: 100% 100%;
+    }
+    .main-plan .plans{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+    .main-hire{
+        grid-template-columns: 100%;
+    }
+}
+@media(max-width:920px){
+    .main-service .services{
+        padding: 0px 0px;
+    }
+}
+@media(max-width:835px){
+    .about .about-me .skill ul li a{
+        font-size: 16px;
+        margin-right: 35px;
+    }
+    .main-footer{
+        grid-template-columns: 1fr;
+        padding: 20px;
+    }
+}
+@media(max-width:767px){
+    .banner .heading h1,.banner .heading p{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .about .about-me .skill ul li a{
+        font-size: 14px;
+        margin-right: 25px;
+    }
+    .main-plan .plans{
+        grid-template-columns: 1fr;
+    }
+}
+@media(max-width:665px){
+    .main-service h1{
+        font-size: 30px;
+    }
+    .main-service p{
+        font-size: 12px;
+    }
+}
+@media(max-width:658px){
+    .about .about-me .skill{
+        border: none;
+        border-bottom: 1px solid gray;
+        border-radius: 0px;
+        padding-bottom: 10px;
+    }
+    .about .about-me .skill ul li a{
+        padding-top: 20px;
+    }
+    .about .about-me .skill ul li .active{
+        background-color: #FD4766;
+        padding: 5px;
+        border-radius: 30px;
+    } 
+    .main-service .services{
+        grid-template-columns: 100%;
+    }
+    .main-project .projects .project-box{
+        background-size: 100% 100%;
+    }
+}
+@media(max-width:520px){
+    .main-hire .hire-form  input, .main-hire .hire-form  textarea{
+        width: 280px;
+    }
+    .main-hire{
+        padding: 10px 40px;
+    }
+    .banner .heading{
+        padding: 20px 10px;
+    }
+}
