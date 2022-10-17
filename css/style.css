@@ -6,6 +6,9 @@
     color: white;
     scroll-behavior: smooth;
 }
+a{
+    text-decoration: none;
+}
 @font-face {
     font-family: poppins;
     src: url('../fonts/Poppins-Regular.ttf');
