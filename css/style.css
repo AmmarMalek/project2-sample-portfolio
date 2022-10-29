@@ -242,6 +242,7 @@ a{
     top: 0;
     left: 0;
     opacity: 0;
+    border-radius: 8px;
 }
 .main-project .projects .project-box{
     border-radius: 8px;
